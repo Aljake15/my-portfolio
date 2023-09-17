@@ -34,6 +34,9 @@ nav{
     background-color: #FFA700;
     border-radius: 10px;
     letter-spacing: 2px;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
 }
 span{
     color: #FFA700;
